@@ -141,4 +141,3 @@ body {
 .status-err { color: var(--red); word-break: break-word; }
 .status a { color: var(--primary); }
 
-.footer { text-align: center; color: var(--muted); font-size: 12px; }

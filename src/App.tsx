@@ -15,9 +15,6 @@ export default function App() {
           <TransferPanel />
         </NetworkGuard>
       </main>
-      <footer className="footer">
-        Ethereum mainnet · {TOKEN.symbol} · demo
-      </footer>
     </div>
   )
 }
